@@ -1,0 +1,24 @@
+enabled: true
+
+spam:
+  attack-speed: 1024.0
+  extra-damage: 2.0
+
+crits:
+  enabled: true
+  chance: 85
+  multiplier: 2.0
+
+sweeps:
+  enabled: true
+  chance: 90
+  radius: 3.5
+  damage-percent: 75
+  max-targets: 6
+
+messages:
+  prefix: "&c[&4SpamPVP&c] "
+  enabled: "&aSpamPVP activado!"
+  disabled: "&cSpamPVP desactivado!"
+  reloaded: "&eConfiguración recargada!"
+  no-permission: "&cNo tienes permiso."
